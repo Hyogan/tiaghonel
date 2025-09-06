@@ -1,0 +1,39 @@
+# Node modules
+node_modules
+
+# Build output
+.next
+out
+dist
+
+# System files
+.DS_Store
+
+# Logs
+*.log
+
+# Environment
+.env*
+.env
+
+# Git
+.git
+.gitignore
+
+# IDE/editor configs
+.vscode
+.idea
+
+# Public/static assets
+public
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.svg
+**/*.webp
+**/*.gif
+
+# Laravel-specific (if you have a backend in the same repo)
+vendor
+storage
+bo
